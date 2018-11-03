@@ -1,1 +1,1 @@
-Mindstorms
+Lego Mindstorms NXT/EV3
